@@ -132,16 +132,6 @@ Future Possible Functionalities
 4. Increase Scalability 
 
 
-Screenshots
------------------
-<br>
-
-![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-1.jpg)
-<br>
-
-![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-5.jpg)
-<br>
-<br>
 
 
 
