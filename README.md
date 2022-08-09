@@ -53,7 +53,7 @@ The development WebRTC server can be accessed by visiting http://localhost:5000.
 Running AppRTC locally requires Cloud Firestore Database ,Node.js and compatible Browser.
 
 
-What I Accomplished
+What We Accomplished
 -------------------
 We successfully implemented the video calling App wherein more than two people can currently video call together using the web app. We also implemented:
 1. Switch audio on/off
@@ -71,12 +71,6 @@ We successfully implemented the video calling App wherein more than two people c
 ![Chitchat](public/landing-page/assets/img/logo.png)
 
 
-In the <strong>first two weeks</strong>, We researched on WebRTC, Agora, Jitsi and socket.io to decide on which SDK We wanted to use for our web app. Ended up deciding on WebRTC. Got working on establishing video communication between two connections. <br><br>
-In the <strong>third and fourth week</strong>, We worked on adding additional features to our web app. <br><br>
-In the <strong>last week</strong>, We ended up adding the chat feature and worked on the landing page as well as the UI for the whole web app.<br><br>
-
-
-
 Running the Web App on your Local Device
 --------------------------------
 
@@ -86,10 +80,6 @@ To run the web app in your local device, run the following commands in your term
 ```bash
 cd folder-you-want-to-download-code-in
 
-git clone https://github.com/shrutayyyy/LetsMeet.git
-
-cd LetsMeet
-```
 -Now that you're in the project folder, open terminal to download the needed node modules:
 ```bash
 npm install
@@ -101,9 +91,6 @@ npm start
 The server should be running at <strong>localhost:3000</strong><br>
 If localhost:3000 shows busy on your device, run the following commands:
 ```bash
-sudo lsof -i :3000
-
-kill -9 <PID>
 ```
 Now localhost:3000 is free to run this application.
 <br>
@@ -128,8 +115,7 @@ Future Possible Functionalities
 
 1. Add a sign up/authentication page
 2. Improve upon the Adapt functionality in the web app
-3. Add an additional feature of breakout rooms      
-4. Increase Scalability 
+3. Increase Scalability 
 
 
 
