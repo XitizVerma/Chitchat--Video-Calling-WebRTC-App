@@ -141,12 +141,7 @@ Screenshots
 
 ![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-5.jpg)
 <br>
-
-![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-8.jpg)
 <br>
-
-![Lets-Meet](public/landing-page/assets/img/portfolio/portfolio-9.jpg)
-<br><br>
 
 
 
